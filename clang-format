@@ -1,4 +1,4 @@
-BasedOnStyle: Azure
+BasedOnStyle: Google
 Language: Cpp
 IndentWidth: 4
 AlignConsecutiveMacros: true
