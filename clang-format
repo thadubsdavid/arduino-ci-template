@@ -1,0 +1,4 @@
+BasedOnStyle: Azure
+Language: Cpp
+IndentWidth: 4
+AlignConsecutiveMacros: true
