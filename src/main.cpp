@@ -1,8 +1,6 @@
 #include <Arduino.h>
 #define onboard 13
 
-
-
 void setup() {
   pinMode(onboard, OUTPUT);
   Serial.begin(9600);
