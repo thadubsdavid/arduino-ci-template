@@ -3,7 +3,7 @@
 
 void setup() {
   pinMode(onboard, OUTPUT);
-  Serial.begin(9600)
+  Serial.begin(9600);
   // put your setup code here, to run once:
 }
 
