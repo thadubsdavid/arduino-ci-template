@@ -12,6 +12,7 @@ python3 get-platformio.py
 
 # Install Atmel AVR platform
 pio platform install "atmelavr"
+pio platform install "raspberrypi"
 
 # Compile project
 pio run
